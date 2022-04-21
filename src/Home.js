@@ -1,6 +1,6 @@
-import React from "react";
-import "./Home.css";
-import Product from "./Product";
+import React from 'react';
+import './Home.css';
+import Product from './Product';
 
 function Home() {
   return (
@@ -14,9 +14,9 @@ function Home() {
 
         <div className="home__row">
           <Product
-            id="12321341"
+            id="12321333"
             title="The Lean Startup: How Constant Innovation Creates Radically Successful Businesses Paperback"
-            price={11.96}
+            price={11.0}
             rating={5}
             image="https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._SX325_BO1,204,203,200_.jpg"
           />
